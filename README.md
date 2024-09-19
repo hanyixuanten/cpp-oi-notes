@@ -1,3 +1,3 @@
 # README
 
-Here's all the notes of c++ in OI
+Here's all my notes of c++ in OI
