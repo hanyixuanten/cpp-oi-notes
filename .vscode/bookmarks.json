@@ -39,37 +39,27 @@
 			"path": "2.数据结构/数据结构.md",
 			"bookmarks": [
 				{
-					"line": 7,
-					"column": 12,
-					"label": ""
-				},
-				{
-					"line": 8,
-					"column": 12,
-					"label": ""
-				},
-				{
-					"line": 25,
+					"line": 31,
 					"column": 19,
 					"label": ""
 				},
 				{
-					"line": 26,
+					"line": 32,
 					"column": 9,
 					"label": ""
 				},
 				{
-					"line": 27,
+					"line": 33,
 					"column": 7,
 					"label": ""
 				},
 				{
-					"line": 28,
+					"line": 34,
 					"column": 7,
 					"label": ""
 				},
 				{
-					"line": 29,
+					"line": 35,
 					"column": 9,
 					"label": ""
 				}
@@ -131,6 +121,36 @@
 				{
 					"line": 65,
 					"column": 13,
+					"label": ""
+				},
+				{
+					"line": 73,
+					"column": 15,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "5.数学/数学.md",
+			"bookmarks": [
+				{
+					"line": 2,
+					"column": 0,
+					"label": ""
+				},
+				{
+					"line": 14,
+					"column": 17,
+					"label": ""
+				},
+				{
+					"line": 25,
+					"column": 16,
+					"label": ""
+				},
+				{
+					"line": 30,
+					"column": 17,
 					"label": ""
 				}
 			]
